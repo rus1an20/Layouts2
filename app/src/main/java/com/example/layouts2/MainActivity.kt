@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
 
         binding.myName = myName
 
-//       findViewById<Button>(R.id.done).setOnClickListener {
+//      findViewById<Button>(R.id.done).setOnClickListener {
 //            addNickname(it)
 //        }
         binding.done.setOnClickListener{
